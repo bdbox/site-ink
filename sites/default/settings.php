@@ -795,3 +795,12 @@ $databases['default']['default'] = array (
 );
 $settings['install_profile'] = 'standard';
 $config_directories['sync'] = 'sites/default/files/config_ZoXHBU3wJD5LxIv0YoC287gz1UvNeFoUqzIZjGTJKi9UMwrDoc3ROSdyd3Key7Psdpg_8Rq5ng/sync';
+
+/**
+ * setting for trusted hostname
+ */
+ $settings['trusted_host_patterns'] = array(
+#  '^inkool\.com$',
+#  '^.+\.inkool\.com$'
+'^localhost$'
+);
