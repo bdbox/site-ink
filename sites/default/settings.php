@@ -798,6 +798,7 @@ $config_directories['sync'] = 'sites/default/files/config_ZoXHBU3wJD5LxIv0YoC287
 
 /**
  * setting for trusted hostname
+ *
  */
  $settings['trusted_host_patterns'] = array(
 #  '^inkool\.com$',
