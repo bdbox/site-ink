@@ -64,22 +64,6 @@
 		<Folder>
 			<name>Tracks</name>
 			<Folder>
-				<name>ACTIVE LOG</name>
-				<Placemark>
-					<name>Track Segment #1</name>
-					<Style>
-						<LineStyle>
-							<color>FFFF0000</color>
-<width>6</width>
-						</LineStyle>
-					</Style>
-					<LineString>
-<tessellate>1</tessellate>
-						<coordinates>-74.1506093,40.8330213,17.4411621 -74.1506252,40.8330076,22.2475586</coordinates>
-					</LineString>
-				</Placemark>
-			</Folder>
-			<Folder>
 				<name>ACTIVE LOG 001</name>
 				<Placemark>
 					<name>Track Segment #1</name>
